@@ -13,11 +13,11 @@ public class TestLoginEmail {
 	        WebDriver driver = new ChromeDriver();
 	        driver.get("https://accounts.google.com/");
 	        
-	        driver.findElement(By.id("identifierId")).sendKeys("planetdays100");
+	        driver.findElement(By.id("identifierId")).sendKeys("");
 	        driver.findElement(By.id("identifierNext")).click();
 	        
 	        Thread.sleep(3000);
-	        driver.findElement(By.xpath("//input[@class='whsOnd zHQkBf']")).sendKeys("Sheetal15!");
+	        driver.findElement(By.xpath("//input[@class='whsOnd zHQkBf']")).sendKeys("");
 	        driver.findElement(By.id("passwordNext")).click();
 	        
 	        Thread.sleep(3000);
