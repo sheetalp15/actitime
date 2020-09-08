@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.selenium.basic.TestNG.CreateCustomerUsingTestNG">
+        <methods>
+          <include name="createCustomer" invocation-numbers="2"/>
+          <include name="launchAndLogin"/>
+          <include name="logoutApp"/>
+          <include name="DeleteCustomer" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- com.selenium.basic.TestNG.CreateCustomerUsingTestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

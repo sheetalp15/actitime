@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ss"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/checker-qual-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/dt.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/jconsole.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/packager.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/assert/assert-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/assert/inherits-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/assert/object-assign-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/assert/util-0.10.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/selenium/Eclipse_WS/libs/sikuli/sikulixapi-2.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
